@@ -1,0 +1,155 @@
+$date
+	Thu Nov 26 15:11:13 2026
+$end
+
+$version
+	Synopsys VCS version W-2024.09-SP2_Full64
+$end
+
+$timescale
+	1ps
+$end
+
+$comment Csum: 1 6e128dca7f800260 $end
+
+
+$scope module seq_det_0110_tb $end
+$var wire 1 ! z $end
+$var reg 1 " clk $end
+$var reg 1 # rst $end
+$var reg 1 $ x $end
+
+$scope module dut $end
+$var reg 2 % state [1:0] $end
+$var reg 2 & next_state [1:0] $end
+$var reg 1 ! z $end
+$var wire 1 $ x $end
+$var wire 1 " clk $end
+$var wire 1 # rst $end
+$upscope $end
+
+$upscope $end
+
+$enddefinitions $end
+
+#0
+$dumpvars
+0"
+0!
+1#
+0$
+b01 &
+b00 %
+$end
+#5000
+1"
+#10000
+0#
+0"
+#15000
+1"
+b01 %
+#20000
+0"
+#25000
+1"
+#30000
+1$
+0"
+b10 &
+#35000
+1"
+b10 %
+b11 &
+#40000
+0"
+#45000
+1"
+b11 %
+b00 &
+#50000
+0$
+0"
+b01 &
+1!
+#55000
+1"
+b01 %
+0!
+#60000
+1$
+0"
+b10 &
+#65000
+1"
+b10 %
+b11 &
+#70000
+0"
+#75000
+1"
+b11 %
+b00 &
+#80000
+0$
+0"
+b01 &
+1!
+#85000
+1"
+b01 %
+0!
+#90000
+1$
+0"
+b10 &
+#95000
+1"
+b10 %
+b11 &
+#100000
+0"
+#105000
+1"
+b11 %
+b00 &
+#110000
+0$
+0"
+b01 &
+1!
+#115000
+1"
+b01 %
+0!
+#120000
+0"
+#125000
+1"
+#130000
+1$
+0"
+b10 &
+#135000
+1"
+b10 %
+b11 &
+#140000
+0"
+#145000
+1"
+b11 %
+b00 &
+#150000
+0$
+0"
+b01 &
+1!
+#155000
+1"
+b01 %
+0!
+#160000
+0"
+#165000
+1"
